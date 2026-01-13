@@ -1,32 +1,32 @@
 [
     {
-        "title": "Inception",
+        "title": "The Flash",
         "publisher": "Warner Bros.",
-        "season": null,
-        "year": 2010,
-        "genre": "Sci-Fi",
-        "rating": 8.8
-    },
-    {
-        "title": "The Dark Knight",
-        "publisher": "Warner Bros.",
-        "season": null,
-        "year": 2008,
-        "genre": "Action",
-        "rating": 9.0
-    },
-    {
-        "title": "Interstellar",
-        "publisher": "Paramount Pictures",
-        "season":null,
+        "seasons": 9,
         "year": 2014,
         "genre": "Sci-Fi",
-        "rating": 8.6
+        "rating": 7.5
+    },
+    {
+        "title": "Batman Beyond",
+        "publisher": "Warner Bros.",
+        "seasons": 3,
+        "year": 1999,
+        "genre": "Action",
+        "rating": 8.0
+    },
+    {
+        "title": "Star Trek: Deep Space Nine",
+        "publisher": "Paramount Pictures",
+        "seasons": 7,
+        "year": 1993,
+        "genre": "Sci-Fi",
+        "rating": 8.0
     },
     {
         "title": "Stranger Things",
         "publisher": "Netflix",
-        "season": 4,
+        "seasons": 4,
         "year": 2016,
         "genre": "Drama",
         "rating": 8.7
@@ -35,7 +35,7 @@
     {
         "title": "The Crown",
         "publisher": "Netflix",
-        "season": 5,
+        "seasons": 5,
         "year": 2016,
         "genre": "Biography",
         "rating": 8.7
@@ -43,7 +43,7 @@
     {
         "title": "Breaking Bad",
         "publisher": "AMC",
-        "season": 5,
+        "seasons": 5,
         "year": 2008,
         "genre": "Crime",
         "rating": 9.5
@@ -51,7 +51,7 @@
     {
         "title": "The Mandalorian",
         "publisher": "Disney+",
-        "season": 2,
+        "seasons": 2,
         "year": 2019,
         "genre": "Sci-Fi",
         "rating": 8.8
@@ -59,7 +59,7 @@
     {
         "title": "The Witcher",
         "publisher": "Netflix",
-        "season": 2,
+        "seasons": 2,
         "year": 2019,
         "genre": "Fantasy",
         "rating": 8.2
@@ -67,7 +67,7 @@
     {
         "title": "Avatar: The Last Airbender",
         "publisher": "Nickelodeon",
-        "season": 3,
+        "seasons": 3,
         "year": 2005,
         "genre": "Animation",
         "rating": 9.2
@@ -75,7 +75,7 @@
     {
         "title": "Game of Thrones",
         "publisher": "HBO",
-        "season": 8,
+        "seasons": 8,
         "year": 2011,
         "genre": "Fantasy",
         "rating": 9.3
@@ -83,7 +83,7 @@
     {
         "title": "Friends",
         "publisher": "NBC",
-        "season": 10,
+        "seasons": 10,
         "year": 1994,
         "genre": "Comedy",
         "rating": 8.9
@@ -91,7 +91,7 @@
     {
         "title": "The Office",
         "publisher": "NBC",
-        "season": 9,
+        "seasons": 9,
         "year": 2005,
         "genre": "Comedy",
         "rating": 8.9
@@ -99,7 +99,7 @@
     {
         "title": "Sherlock",
         "publisher": "BBC",
-        "season": 4,
+        "seasons": 4,
         "year": 2010,
         "genre": "Crime",
         "rating": 9.1
@@ -107,7 +107,7 @@
     {
         "title": "Black Mirror",
         "publisher": "Netflix",
-        "season": 5,
+        "seasons": 5,
         "year": 2011,
         "genre": "Sci-Fi",
         "rating": 8.8
@@ -115,7 +115,7 @@
     {
         "title": "The Simpsons",
         "publisher": "Fox",
-        "season": 32,
+        "seasons": 32,
         "year": 1989,
         "genre": "Animation",
         "rating": 8.7
@@ -123,7 +123,7 @@
     {
         "title": "Westworld",
         "publisher": "HBO",
-        "season": 3,
+        "seasons": 3,
         "year": 2016,
         "genre": "Sci-Fi",
         "rating": 8.6
@@ -131,7 +131,7 @@
     {
         "title": "Ozark",
         "publisher": "Netflix",
-        "season": 4,
+        "seasons": 4,
         "year": 2017,
         "genre": "Crime",
         "rating": 8.4
@@ -139,7 +139,7 @@
     {
         "title": "The Handmaid's Tale",
         "publisher": "Hulu",
-        "season": 4,
+        "seasons": 4,
         "year": 2017,
         "genre": "Drama",
         "rating": 8.4
@@ -147,7 +147,7 @@
     {
         "title": "Chernobyl",
         "publisher": "HBO",
-        "season": 1,
+        "seasons": 1,
         "year": 2019,
         "genre": "Drama",
         "rating": 9.4
@@ -155,7 +155,7 @@
     {
         "title": "Mindhunter",
         "publisher": "Netflix",
-        "season": 2,
+        "seasons": 2,
         "year": 2017,
         "genre": "Crime",
         "rating": 8.6
@@ -163,7 +163,7 @@
     {
         "title": "Fargo",
         "publisher": "FX",
-        "season": 4,
+        "seasons": 4,
         "year": 2014,
         "genre": "Crime",
         "rating": 8.9
@@ -171,7 +171,7 @@
     {
         "title": "Better Call Saul",
         "publisher": "AMC",
-        "season": 6,
+        "seasons": 6,
         "year": 2015,
         "genre": "Crime",
         "rating": 8.7
@@ -179,7 +179,7 @@
     {
         "title": "Narcos",
         "publisher": "Netflix",
-        "season": 3,
+        "seasons": 3,
         "year": 2015,
         "genre": "Crime",
         "rating": 8.8
@@ -187,7 +187,7 @@
     {
         "title": "House of Cards",
         "publisher": "Netflix",
-        "season": 6,
+        "seasons": 6,
         "year": 2013,
         "genre": "Drama",
         "rating": 8.7
@@ -195,7 +195,7 @@
     {
         "title": "The Boys",
         "publisher": "Amazon Prime",
-        "season": 3,
+        "seasons": 3,
         "year": 2019,
         "genre": "Action",
         "rating": 8.7
@@ -203,7 +203,7 @@
     {
         "title": "Rick and Morty",
         "publisher": "Adult Swim",
-        "season": 5,
+        "seasons": 5,
         "year": 2013,
         "genre": "Animation",
         "rating": 9.2
@@ -211,7 +211,7 @@
     {
         "title": "Peaky Blinders",
         "publisher": "BBC",
-        "season": 6,
+        "seasons": 6,
         "year": 2013,
         "genre": "Crime",
         "rating": 8.8
@@ -219,7 +219,7 @@
     {
         "title": "The Expanse",
         "publisher": "Amazon Prime",
-        "season": 6,
+        "seasons": 6,
         "year": 2015,
         "genre": "Sci-Fi",
         "rating": 8.5
@@ -227,7 +227,7 @@
     {
         "title": "Dark",
         "publisher": "Netflix",
-        "season": 3,
+        "seasons": 3,
         "year": 2017,
         "genre": "Sci-Fi",
         "rating": 8.8
@@ -235,7 +235,7 @@
     {
         "title": "Succession",
         "publisher": "HBO",
-        "season": 4,
+        "seasons": 4,
         "year": 2018,
         "genre": "Drama",
         "rating": 8.8
@@ -243,7 +243,7 @@
     {
         "title": "Loki",
         "publisher": "Disney+",
-        "season": 1,
+        "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 8.3
@@ -251,7 +251,7 @@
     {
         "title": "WandaVision",
         "publisher": "Disney+",
-        "season": 1,
+        "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 8.0
@@ -259,7 +259,7 @@
     {
         "title": "The Falcon and the Winter Soldier",
         "publisher": "Disney+",
-        "season": 1,
+        "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 7.5
@@ -267,7 +267,7 @@
     {
         "title": "Hawkeye",
         "publisher": "Disney+",
-        "season": 1,
+        "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 7.6
@@ -275,10 +275,18 @@
     {
         "title": "Moon Knight",
         "publisher": "Disney+",
-        "season": 1,
+        "seasons": 1,
         "year": 2022,
         "genre": "Sci-Fi",
         "rating": 7.7
+    },
+    {
+        "title": "Ms. Marvel",
+        "publisher": "Disney+",
+        "seasons": 1,
+        "year": 2022,
+        "genre": "Sci-Fi",
+        "rating": 7.1
     }
 
 ]
