@@ -5,7 +5,8 @@
         "seasons": 9,
         "year": 2014,
         "genre": "Sci-Fi",
-        "rating": 7.5
+        "rating": 7.5,
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQf55Nf0Hn3_rrNsqyWlmKy-KFOOVJO-eU1zQ&s"
     },
     {
         "title": "Batman Beyond",
@@ -13,7 +14,8 @@
         "seasons": 3,
         "year": 1999,
         "genre": "Action",
-        "rating": 8.0
+        "rating": 8.0,
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BMDExYjNiYTYtZDkwZC00NDcxLTk3YWYtMmIyN2ZlZGYyY2E0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "title": "Star Trek: Deep Space Nine",
@@ -21,7 +23,8 @@
         "seasons": 7,
         "year": 1993,
         "genre": "Sci-Fi",
-        "rating": 8.0
+        "rating": 8.0,
+        "imgSrc": "https://platform.vox.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/7050223/star-trek-deep-space-nine.jpg?quality=90&strip=all&crop=0,10.732984293194,100,78.534031413613"
     },
     {
         "title": "Stranger Things",
@@ -29,7 +32,8 @@
         "seasons": 4,
         "year": 2016,
         "genre": "Drama",
-        "rating": 8.7
+        "rating": 8.7,
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/commons/3/38/Stranger_Things_logo.png"
     },
 
     {
@@ -38,7 +42,8 @@
         "seasons": 5,
         "year": 2016,
         "genre": "Biography",
-        "rating": 8.7
+        "rating": 8.7,
+        "imgSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb6c5t1oBNsRco0sgJRiHjBCKfIw2s_w5UqQ&s"
     },
     {
         "title": "Breaking Bad",
@@ -46,7 +51,8 @@
         "seasons": 5,
         "year": 2008,
         "genre": "Crime",
-        "rating": 9.5
+        "rating": 9.5,
+        "imgSrc": ""
     },
     {
         "title": "The Mandalorian",
@@ -54,7 +60,8 @@
         "seasons": 2,
         "year": 2019,
         "genre": "Sci-Fi",
-        "rating": 8.8
+        "rating": 8.8,
+        "imgSrc":
     },
     {
         "title": "The Witcher",
@@ -62,7 +69,8 @@
         "seasons": 2,
         "year": 2019,
         "genre": "Fantasy",
-        "rating": 8.2
+        "rating": 8.2,
+        "imgSrc":
     },
     {
         "title": "Avatar: The Last Airbender",
@@ -70,7 +78,8 @@
         "seasons": 3,
         "year": 2005,
         "genre": "Animation",
-        "rating": 9.2
+        "rating": 9.2,
+        "imgSrc":
     },
     {
         "title": "Game of Thrones",
@@ -78,7 +87,8 @@
         "seasons": 8,
         "year": 2011,
         "genre": "Fantasy",
-        "rating": 9.3
+        "rating": 9.3,
+        "imgSrc":
     },
     {
         "title": "Friends",
@@ -86,7 +96,8 @@
         "seasons": 10,
         "year": 1994,
         "genre": "Comedy",
-        "rating": 8.9
+        "rating": 8.9,
+        "imgSrc":
     },
     {
         "title": "The Office",
@@ -94,7 +105,8 @@
         "seasons": 9,
         "year": 2005,
         "genre": "Comedy",
-        "rating": 8.9
+        "rating": 8.9,
+        "imgSrc":
     },
     {
         "title": "Sherlock",
@@ -102,7 +114,8 @@
         "seasons": 4,
         "year": 2010,
         "genre": "Crime",
-        "rating": 9.1
+        "rating": 9.1,
+        "imgSrc":
     },
     {
         "title": "Black Mirror",
@@ -110,7 +123,8 @@
         "seasons": 5,
         "year": 2011,
         "genre": "Sci-Fi",
-        "rating": 8.8
+        "rating": 8.8,
+        "imgSrc":
     },
     {
         "title": "The Simpsons",
@@ -118,7 +132,8 @@
         "seasons": 32,
         "year": 1989,
         "genre": "Animation",
-        "rating": 8.7
+        "rating": 8.7,
+        "imgSrc":
     },
     {
         "title": "Westworld",
@@ -126,7 +141,8 @@
         "seasons": 3,
         "year": 2016,
         "genre": "Sci-Fi",
-        "rating": 8.6
+        "rating": 8.6,
+        "imgSrc":
     },
     {
         "title": "Ozark",
@@ -134,7 +150,8 @@
         "seasons": 4,
         "year": 2017,
         "genre": "Crime",
-        "rating": 8.4
+        "rating": 8.4,
+        "imgSrc":
     },
     {
         "title": "The Handmaid's Tale",
@@ -142,7 +159,8 @@
         "seasons": 4,
         "year": 2017,
         "genre": "Drama",
-        "rating": 8.4
+        "rating": 8.4,
+        "imgSrc":
     },
     {
         "title": "Chernobyl",
@@ -150,7 +168,8 @@
         "seasons": 1,
         "year": 2019,
         "genre": "Drama",
-        "rating": 9.4
+        "rating": 9.4,
+        "imgSrc":
     },
     {
         "title": "Mindhunter",
@@ -158,7 +177,8 @@
         "seasons": 2,
         "year": 2017,
         "genre": "Crime",
-        "rating": 8.6
+        "rating": 8.6,
+        "imgSrc":
     },
     {
         "title": "Fargo",
@@ -166,7 +186,8 @@
         "seasons": 4,
         "year": 2014,
         "genre": "Crime",
-        "rating": 8.9
+        "rating": 8.9,
+        "imgSrc":
     },
     {
         "title": "Better Call Saul",
@@ -174,7 +195,8 @@
         "seasons": 6,
         "year": 2015,
         "genre": "Crime",
-        "rating": 8.7
+        "rating": 8.7,
+        "imgSrc":
     },
     {
         "title": "Narcos",
@@ -182,7 +204,8 @@
         "seasons": 3,
         "year": 2015,
         "genre": "Crime",
-        "rating": 8.8
+        "rating": 8.8,
+        "imgSrc":
     },
     {
         "title": "House of Cards",
@@ -190,7 +213,8 @@
         "seasons": 6,
         "year": 2013,
         "genre": "Drama",
-        "rating": 8.7
+        "rating": 8.7,
+        "imgSrc":
     },
     {
         "title": "The Boys",
@@ -198,7 +222,8 @@
         "seasons": 3,
         "year": 2019,
         "genre": "Action",
-        "rating": 8.7
+        "rating": 8.7,
+        "imgSrc":
     },
     {
         "title": "Rick and Morty",
@@ -206,7 +231,8 @@
         "seasons": 5,
         "year": 2013,
         "genre": "Animation",
-        "rating": 9.2
+        "rating": 9.2,
+        "imgSrc":
     },
     {
         "title": "Peaky Blinders",
@@ -214,7 +240,8 @@
         "seasons": 6,
         "year": 2013,
         "genre": "Crime",
-        "rating": 8.8
+        "rating": 8.8,
+        "imgSrc":
     },
     {
         "title": "The Expanse",
@@ -222,7 +249,8 @@
         "seasons": 6,
         "year": 2015,
         "genre": "Sci-Fi",
-        "rating": 8.5
+        "rating": 8.5,
+        "imgSrc":
     },
     {
         "title": "Dark",
@@ -230,7 +258,8 @@
         "seasons": 3,
         "year": 2017,
         "genre": "Sci-Fi",
-        "rating": 8.8
+        "rating": 8.8,
+        "imgSrc":
     },
     {
         "title": "Succession",
@@ -238,7 +267,8 @@
         "seasons": 4,
         "year": 2018,
         "genre": "Drama",
-        "rating": 8.8
+        "rating": 8.8,
+        "imgSrc":
     },
     {
         "title": "Loki",
@@ -246,7 +276,8 @@
         "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
-        "rating": 8.3
+        "rating": 8.3,
+        "imgSrc":
     },
     {
         "title": "WandaVision",
@@ -254,7 +285,8 @@
         "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
-        "rating": 8.0
+        "rating": 8.0,
+        "imgSrc":
     },
     {
         "title": "The Falcon and the Winter Soldier",
@@ -262,7 +294,8 @@
         "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
-        "rating": 7.5
+        "rating": 7.5,
+        "imgSrc":
     },
     {
         "title": "Hawkeye",
@@ -270,7 +303,8 @@
         "seasons": 1,
         "year": 2021,
         "genre": "Sci-Fi",
-        "rating": 7.6
+        "rating": 7.6,
+        "imgSrc":
     },
     {
         "title": "Moon Knight",
@@ -278,7 +312,8 @@
         "seasons": 1,
         "year": 2022,
         "genre": "Sci-Fi",
-        "rating": 7.7
+        "rating": 7.7,
+        "imgSrc":
     },
     {
         "title": "Ms. Marvel",
@@ -286,7 +321,8 @@
         "seasons": 1,
         "year": 2022,
         "genre": "Sci-Fi",
-        "rating": 7.1
+        "rating": 7.1,
+        "imgSrc":
     }
 
 ]
