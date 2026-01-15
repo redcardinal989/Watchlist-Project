@@ -17,7 +17,7 @@
         "rating": 8.0,
         "imgSrc": "https://m.media-amazon.com/images/M/MV5BMDExYjNiYTYtZDkwZC00NDcxLTk3YWYtMmIyN2ZlZGYyY2E0XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
-    {
+    {   
         "title": "Star Trek: Deep Space Nine",
         "publisher": "Paramount Pictures",
         "seasons": 7,
@@ -52,7 +52,7 @@
         "year": 2008,
         "genre": "Crime",
         "rating": 9.5,
-        "imgSrc": ""
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BMTJiMzgwZTktYzZhZC00YzhhLWEzZDUtMGM2NTE4MzQ4NGFmXkEyXkFqcGdeQWpybA@@._V1_.jpg"
     },
     {
         "title": "The Mandalorian",
@@ -61,7 +61,7 @@
         "year": 2019,
         "genre": "Sci-Fi",
         "rating": 8.8,
-        "imgSrc":
+        "imgSrc": "https://www.indiependent.co.uk/wp-content/uploads/2020/12/the-mandalorian.jpg"
     },
     {
         "title": "The Witcher",
@@ -70,7 +70,7 @@
         "year": 2019,
         "genre": "Fantasy",
         "rating": 8.2,
-        "imgSrc":
+        "imgSrc": "https://pyxis.nymag.com/v1/imgs/07e/bb3/03fd2623252885cd953f58ca51a12a2ff7-witcher-season4-1.2x.rsocial.w600.jpg"
     },
     {
         "title": "Avatar: The Last Airbender",
@@ -79,7 +79,7 @@
         "year": 2005,
         "genre": "Animation",
         "rating": 9.2,
-        "imgSrc":
+        "imgSrc": "https://occ-0-8407-2218.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABd0xfPolfAzyxqDPSaUX2W_PDp9lzsD1XT-HS2-Zmf1-pFRyehAoDzazrhimUl0jvbHWjztoFBSVJsxEM__SKMWHx60jzATRP2R8.jpg?r=fc9"
     },
     {
         "title": "Game of Thrones",
@@ -88,7 +88,7 @@
         "year": 2011,
         "genre": "Fantasy",
         "rating": 9.3,
-        "imgSrc":
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/d/d8/Game_of_Thrones_title_card.jpg"
     },
     {
         "title": "Friends",
@@ -97,7 +97,7 @@
         "year": 1994,
         "genre": "Comedy",
         "rating": 8.9,
-        "imgSrc":
+        "imgSrc": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABel8GxLVuoCJ2IRDay-RvBrJrcJ7I-NOnRG_tI3s6HBOGmqT3ncq125Sjo5xHcKhNy6RAFgXjrVTSIUAIYQSZE4kUzqqzJ7pRyh9.jpg?r=069"
     },
     {
         "title": "The Office",
@@ -106,7 +106,7 @@
         "year": 2005,
         "genre": "Comedy",
         "rating": 8.9,
-        "imgSrc":
+        "imgSrc": "https://ca-times.brightspotcdn.com/dims4/default/d0dd73f/2147483647/strip/true/crop/4680x3240+0+0/resize/1200x831!/quality/75/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F5e%2F51%2F08e2ace149ff9067e7b5bf86e8c5%2Fthe-office-20th-copy.jpg"
     },
     {
         "title": "Sherlock",
@@ -115,7 +115,7 @@
         "year": 2010,
         "genre": "Crime",
         "rating": 9.1,
-        "imgSrc":
+        "imgSrc": "https://m.media-amazon.com/images/M/MV5BNTQzNGZjNDEtOTMwYi00MzFjLWE2ZTYtYzYxYzMwMjZkZDc5XkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg"
     },
     {
         "title": "Black Mirror",
@@ -124,7 +124,7 @@
         "year": 2011,
         "genre": "Sci-Fi",
         "rating": 8.8,
-        "imgSrc":
+        "imgSrc": "https://spaces.filmstories.co.uk/uploads/2023/11/Black-Mirror-logo.jpg"
     },
     {
         "title": "The Simpsons",
@@ -133,7 +133,7 @@
         "year": 1989,
         "genre": "Animation",
         "rating": 8.7,
-        "imgSrc":
+        "imgSrc": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/88b98d28-7feb-494a-b31a-05b49d71f1ea/compose?aspectRatio=1.78&format=webp&width=1200"
     },
     {
         "title": "Westworld",
@@ -142,7 +142,7 @@
         "year": 2016,
         "genre": "Sci-Fi",
         "rating": 8.6,
-        "imgSrc":
+        "imgSrc": "https://upload.wikimedia.org/wikipedia/en/2/28/Westworld_season_1.png"
     },
     {
         "title": "Ozark",
@@ -151,7 +151,7 @@
         "year": 2017,
         "genre": "Crime",
         "rating": 8.4,
-        "imgSrc":
+        "imgSrc": "https://ntvb.tmsimg.com/assets/p14264042_b_h8_aj.jpg?w=960&h=540"
     },
     {
         "title": "The Handmaid's Tale",
@@ -160,7 +160,7 @@
         "year": 2017,
         "genre": "Drama",
         "rating": 8.4,
-        "imgSrc":
+        "imgSrc": "https://m.media-amazon.com/images/S/pv-target-images/f687942eca7cac0c56d649dc24ec6db5cb053c3ecdd761d0edbeb501f7743cca.jpg"
     },
     {
         "title": "Chernobyl",
@@ -169,7 +169,7 @@
         "year": 2019,
         "genre": "Drama",
         "rating": 9.4,
-        "imgSrc":
+        "imgSrc": "https://m.media-amazon.com/images/S/pv-target-images/d7973ef1aa81128b3d8d79b17d26941ded8b330db31f65405fd19625d40cd684.jpg"
     },
     {
         "title": "Mindhunter",
@@ -178,7 +178,7 @@
         "year": 2017,
         "genre": "Crime",
         "rating": 8.6,
-        "imgSrc":
+        "imgSrc": "https://occ-0-8407-2219.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABaoWz1IQy3o1xJ87TrjbFg9UBuTBiiFC12dVj3mpgXo8awxF21WBiLu1VtwdJM-XMG-aS9e-owWTgub--nnnlGisCIWvPcWHna4H.jpg?r=d4f"
     },
     {
         "title": "Fargo",
@@ -187,7 +187,7 @@
         "year": 2014,
         "genre": "Crime",
         "rating": 8.9,
-        "imgSrc":
+        "imgSrc": "https://img4.hulu.com/user/v3/artwork/203cda1b-7919-40fb-ab36-1e45b3ed2a50?base_image_bucket_name=image_manager&base_image=69d54601-c752-4a73-a5a2-cb8617ac008b&size=1200x630&format=webp&operations=%5B%7B%22gradient_vector%22%3A%22(0%2C0%2C0%2C0.5)%7C(0%2C0%2C0%2C0)%7C(0%2C600)%7C(0%2C240)%22%7D%2C%7B%22overlay%22%3A%7B%22position%22%3A%22SouthEast%7C(30%2C30)%22%2C%22operations%22%3A%5B%7B%22image%22%3A%22image_manager%7Ca68d3da0-36fd-482f-9df9-a99c58ed9c45%22%7D%2C%7B%22resize%22%3A%22204x204%7Cmax%22%7D%2C%7B%22extent%22%3A%22204x204%22%7D%5D%7D%7D%2C%5D"
     },
     {
         "title": "Better Call Saul",
@@ -196,7 +196,7 @@
         "year": 2015,
         "genre": "Crime",
         "rating": 8.7,
-        "imgSrc":
+        "imgSrc": "https://news.newonnetflix.info/wp-content/uploads/2018/06/better-call-saul.jpg"
     },
     {
         "title": "Narcos",
@@ -205,7 +205,7 @@
         "year": 2015,
         "genre": "Crime",
         "rating": 8.8,
-        "imgSrc":
+        "imgSrc": "https://wildcat.arizona.edu/wp-content/uploads/2015/09/352a59f9-33e7-4cd0-a75e-dc3063388287.sized-1000x1000-1.jpg"
     },
     {
         "title": "House of Cards",
@@ -214,7 +214,7 @@
         "year": 2013,
         "genre": "Drama",
         "rating": 8.7,
-        "imgSrc":
+        "imgSrc": "https://i.ytimg.com/vi/8QnMmpfKWvo/maxresdefault.jpg"
     },
     {
         "title": "The Boys",
@@ -223,7 +223,7 @@
         "year": 2019,
         "genre": "Action",
         "rating": 8.7,
-        "imgSrc":
+        "imgSrc": "https://static.wikia.nocookie.net/amazons-the-boys/images/0/06/The_Boys_infobox.jpg/revision/latest/thumbnail/width/360/height/360?cb=20240827035357"
     },
     {
         "title": "Rick and Morty",
@@ -232,7 +232,7 @@
         "year": 2013,
         "genre": "Animation",
         "rating": 9.2,
-        "imgSrc":
+        "imgSrc": "https://static0.makeuseofimages.com/wordpress/wp-content/uploads/2015/07/rick-morty.jpg"
     },
     {
         "title": "Peaky Blinders",
@@ -241,7 +241,7 @@
         "year": 2013,
         "genre": "Crime",
         "rating": 8.8,
-        "imgSrc":
+        "imgSrc": "https://substackcdn.com/image/fetch/$s_!FMQ0!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F49c40cca-bfed-4f18-8658-1866ad1dfb3b_1400x700.jpeg"
     },
     {
         "title": "The Expanse",
@@ -250,7 +250,7 @@
         "year": 2015,
         "genre": "Sci-Fi",
         "rating": 8.5,
-        "imgSrc":
+        "imgSrc": "https://nacellestore.com/cdn/shop/files/THE_EXPANSE_Title_3840x2160_72dpi_Revised.png?v=1709239079&width=1500"
     },
     {
         "title": "Dark",
@@ -259,7 +259,7 @@
         "year": 2017,
         "genre": "Sci-Fi",
         "rating": 8.8,
-        "imgSrc":
+        "imgSrc": "https://static0.moviewebimages.com/wordpress/wp-content/uploads/2022/07/Dark.jpg"
     },
     {
         "title": "Succession",
@@ -268,7 +268,7 @@
         "year": 2018,
         "genre": "Drama",
         "rating": 8.8,
-        "imgSrc":
+        "imgSrc": "https://images.hellomagazine.com/horizon/landscape/bbe94d925395-succesion-5-t.jpg"
     },
     {
         "title": "Loki",
@@ -277,7 +277,7 @@
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 8.3,
-        "imgSrc":
+        "imgSrc": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/0b32e646-12c2-417f-a821-77e22e3d2c3d/compose?aspectRatio=1.78&format=webp&width=1200"
     },
     {
         "title": "WandaVision",
@@ -286,7 +286,7 @@
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 8.0,
-        "imgSrc":
+        "imgSrc": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/44f18e37-cce7-4813-b407-fc8d2ebe3f60/compose?aspectRatio=1.78&format=webp&width=1200"
     },
     {
         "title": "The Falcon and the Winter Soldier",
@@ -295,7 +295,7 @@
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 7.5,
-        "imgSrc":
+        "imgSrc": "https://cdn.mos.cms.futurecdn.net/7N5ibS2ZrcS9N282z49SJj.jpg"
     },
     {
         "title": "Hawkeye",
@@ -304,7 +304,7 @@
         "year": 2021,
         "genre": "Sci-Fi",
         "rating": 7.6,
-        "imgSrc":
+        "imgSrc": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/d8668fb3-a53d-48ba-8675-55587b5372b8/compose?aspectRatio=1.78&format=webp&width=1200"
     },
     {
         "title": "Moon Knight",
@@ -313,7 +313,7 @@
         "year": 2022,
         "genre": "Sci-Fi",
         "rating": 7.7,
-        "imgSrc":
+        "imgSrc": "https://cdn.nerdist.com/wp-content/uploads/2022/03/12181539/Moon-Knight-under-the-Moon.jpg"
     },
     {
         "title": "Ms. Marvel",
@@ -322,7 +322,7 @@
         "year": 2022,
         "genre": "Sci-Fi",
         "rating": 7.1,
-        "imgSrc":
+        "imgSrc": "https://disney.images.edge.bamgrid.com/ripcut-delivery/v2/variant/disney/fae9251b-074d-4679-97ea-1d0545455e1e/compose?aspectRatio=1.78&format=webp&width=1200"
     }
 
 ]
