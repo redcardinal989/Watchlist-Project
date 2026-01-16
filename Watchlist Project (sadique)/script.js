@@ -8,6 +8,7 @@ xhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     data = JSON.parse(xhttp.responseText);
     console.log(data);
+    localStorage.setItem("dataList", JSON.stringify(data));
    
     data.forEach(function(show) {
       let card = document.createElement("div");
