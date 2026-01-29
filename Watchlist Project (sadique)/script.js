@@ -3,6 +3,10 @@ console.log("js console");
 let data; 
 let grid = document.querySelector(".grid-container");
 
+if(localStorage.getItem("watchlist")){
+  data = JSON.parse(localStorage.getItem("watchlist"));
+}
+
 var xhttp = new XMLHttpRequest();
 xhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
