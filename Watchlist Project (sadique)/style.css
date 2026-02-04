@@ -1,18 +1,41 @@
-.grid-container {
-    display: grid;
-    grid-template-columns: repeat(3, 1fr);
-    gap: 10px;
+.grid-container{
+    width: 80%;
+    margin: auto;
     padding: 10px;
+    border-radius: 8px;
+    background-color: #c4cad0;
+    text-align: left;
 }
 
-.card {  
-    background-color: #ffffff;
-    border: 1px solid #ddd;
+.card{
+    background-color: rgb(255, 255, 255);
     border-radius: 5px;
+    box-shadow: 0 4px 8px rgba(67, 41, 132, 0.1);
     padding: 15px;
-    text-align: center;
-    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+    margin: 10px 0;
+    background-size: 25%;
+    background-position: right;
+    background-repeat: no-repeat;
+    text-align: justify;
+    font-size: larger;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
+.card:hover{
+    box-shadow: 0 0 10px #cb2402b4, /* Inner glow */
+              0 0 20px rgb(255, 177, 237), /* Outer glow */
+              0 0 40px #cb3802b5;
+    transform: translateY(-5px);
+    transition: all 0.3s ease;
+}
+ .Images{
+    border-radius: 5px;
+    float: right;
+    width:150px;
+    height:150px;
+    background-position: right;
+    margin-left: 15px;
+}
+
 
  body{
     margin: 0;
