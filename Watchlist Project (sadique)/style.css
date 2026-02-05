@@ -20,13 +20,7 @@
     font-size: larger;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
-.card:hover{
-    box-shadow: 0 0 10px #cb2402b4, /* Inner glow */
-              0 0 20px rgb(255, 177, 237), /* Outer glow */
-              0 0 40px #cb3802b5;
-    transform: translateY(-5px);
-    transition: all 0.3s ease;
-}
+
  .Images{
     border-radius: 5px;
     float: right;
@@ -43,3 +37,30 @@
     background-color: #ffaedd;
 
  }
+
+ ul {
+    position: sticky;
+  top: 0;
+  width: 100%;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #a03f39b3;
+}
+
+ul li {
+  float: left;
+}
+
+ul li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  background-color: #a03f39b3;
+}
