@@ -5,6 +5,9 @@ let grid = document.querySelector(".grid-container");
 
 if(localStorage.getItem("watchlist")){
   data = JSON.parse(localStorage.getItem("watchlist"));
+  if(grid)
+    { makeCards(data);}
+   
 }
 
 var xhttp = new XMLHttpRequest();
@@ -12,9 +15,17 @@ xhttp.onreadystatechange = function() {
   if (this.readyState == 4 && this.status == 200) {
     data = JSON.parse(xhttp.responseText);
     console.log(data);
-    localStorage.setItem("dataList", JSON.stringify(data));
+    localStorage.setItem("watchlist", JSON.stringify(data));
    
-    data.forEach(function(show) {
+
+
+  }
+};
+xhttp.open("GET", "showdata.json", true);
+xhttp.send();
+
+function makeCards(data){
+      data.forEach(function(show) {
       let card = document.createElement("div");
     
       card.classList.add("card");
@@ -34,12 +45,9 @@ xhttp.onreadystatechange = function() {
       if(show.imgSrc) {
         card.style.backgroundImage = "url('"+show.imgSrc+"')";
       }
-    
+    if(grid) {
         grid.appendChild(card);
+    }
+       
   });
-
-  }
-};
-xhttp.open("GET", "showdata.json", true);
-xhttp.send();
-
+}
